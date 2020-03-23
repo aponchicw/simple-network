@@ -1,8 +1,8 @@
 # Social-Networking-Website
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
+function done_with_project(project) {
+  if(done) {
+    grade_me("100 p.");
   }
 }
 ```
