@@ -1,8 +1,8 @@
 # Social-Networking-Website
-![Image of login page]()
-![Image of main page]()
-![Image of posts page]()
-![Image of notifications page]()
-![Image of friends page]()
-![Image of friend's list page]()
+![Image of login page](images/login.png)
+![Image of main page](images/main_page.png)
+![Image of posts page](images/posts.png)
+![Image of notifications page](images/notification.png)
+![Image of friends page](images/friend.png)
+![Image of friend's list page](images/list.png)
 
